@@ -27,4 +27,5 @@ View existing course (only if logged in and approved by super admin)
 Use Token for login
 Sort course category wise
 Get rewards for progress/completion
+![51nM7RT56RL _UX679_](https://github.com/Anjali-1509/Course-Management-System/assets/119596367/0daacd63-57cb-4091-9ff0-256ec8d6a5ae)
 
